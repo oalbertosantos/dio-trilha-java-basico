@@ -1,11 +1,11 @@
 //TODO: conhecer e importar a classe scanner;
 
 import java.util.Scanner;
-import java.util.Locale;
+import java.util.Locale; //Desse modo, é possivel configurar o local padrão da configuração de números.
 
 public class ContaTerminal {
     public static void main(String[] args) {
-        Locale.setDefault(Locale.US);
+        Locale.setDefault(Locale.US); //Assim, o ponto é usado como separador decimal.
 
         Scanner scanner = new Scanner(System.in);
         
