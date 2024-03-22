@@ -1,2 +1,2 @@
 ### dio-trilha-java-básico
-* Repositório para os desafios do curso de Java Básico.
+* Repositório para o desafio do curso de Java Básico.
